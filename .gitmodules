@@ -1,0 +1,3 @@
+[submodule "ai-rtma-bundle/aardvark-rtma"]
+	path = ai-rtma-bundle/aardvark-rtma
+	url = https://github.com/TingLei-daprediction/aardvark-weather-public.git
